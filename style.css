@@ -1,0 +1,17 @@
+h3{
+    color: blue;
+}
+div{
+    display: flex;
+}
+li{
+    list-style-type: none;
+    margin: auto;
+    align-items: center;
+
+   
+}
+p{
+    color: blueviolet;
+}
+
